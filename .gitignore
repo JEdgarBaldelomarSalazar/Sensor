@@ -1,0 +1,23 @@
+# Directorios de salida de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de compilación
+*.exe
+*.pdb
+*.dll
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Carpeta de caché de herramientas de construcción
+.vs/
+
+# Archivos de configuración de Visual Studio
+*.vscode/
+
